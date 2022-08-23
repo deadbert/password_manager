@@ -1,0 +1,22 @@
+{
+    "Amazon": {
+        "email": "example1234@test.com",
+        "password": "F7SOm5rx$$TT"
+    },
+    "Google": {
+        "email": "example1234@test.com",
+        "password": "!(8ig2KUJlK68!O"
+    },
+    "Facebook": {
+        "email": "example1234@test.com",
+        "password": "#+u8c7yJALODW8"
+    },
+    "Instagram": {
+        "email": "example1234@test.com",
+        "password": "G)F(NFj935M3CC"
+    },
+    "MySpace": {
+        "email": "example1234@test.com",
+        "password": "+pORUWF+59e**euV"
+    }
+}
